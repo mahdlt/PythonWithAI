@@ -1,6 +1,3 @@
-
-
-
 from FileDict import FileDict
 
 data1 = FileDict('person1')
