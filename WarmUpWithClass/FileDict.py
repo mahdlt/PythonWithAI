@@ -64,7 +64,7 @@ class FileDict:
         pickle.dump(self.dictionary, file)
         file.close()
 
-
+# print(FileDict.__doc__)
 '''
     def __getstate__(self):
     return self.__dict__.copy()
